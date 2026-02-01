@@ -16,6 +16,7 @@ Criar um arquivo chamado requirements.txt e adicionar os pacotes necessários
 Instalar as bibliotecas necessárias
     pip install -r requirements.txt
 
+streamlit run app.py
 ## 🎯 Funcionalidades
 
 - **Filtros Interativos**: Filtre dados por:
